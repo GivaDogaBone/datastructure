@@ -1,0 +1,5 @@
+c:\users\gq101351\documents\visual studio 2010\Projects\GeorgeQuintas\GeorgeQuintas\bin\Release\GeorgeQuintas.exe
+c:\users\gq101351\documents\visual studio 2010\Projects\GeorgeQuintas\GeorgeQuintas\bin\Release\GeorgeQuintas.pdb
+c:\users\gq101351\documents\visual studio 2010\Projects\GeorgeQuintas\GeorgeQuintas\obj\x86\Release\GeorgeQuintas.exe
+c:\users\gq101351\documents\visual studio 2010\Projects\GeorgeQuintas\GeorgeQuintas\obj\x86\Release\GeorgeQuintas.pdb
+C:\Users\GQ101351\Documents\Visual Studio 2010\Projects\GeorgeQuintas\GeorgeQuintas\obj\x86\Release\GeorgeQuintas.csprojResolveAssemblyReference.cache

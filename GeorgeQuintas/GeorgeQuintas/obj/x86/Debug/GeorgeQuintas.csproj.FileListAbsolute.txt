@@ -1,0 +1,4 @@
+c:\users\gq101351\documents\visual studio 2010\Projects\GeorgeQuintas\GeorgeQuintas\bin\Debug\GeorgeQuintas.exe
+c:\users\gq101351\documents\visual studio 2010\Projects\GeorgeQuintas\GeorgeQuintas\bin\Debug\GeorgeQuintas.pdb
+c:\users\gq101351\documents\visual studio 2010\Projects\GeorgeQuintas\GeorgeQuintas\obj\x86\Debug\GeorgeQuintas.exe
+c:\users\gq101351\documents\visual studio 2010\Projects\GeorgeQuintas\GeorgeQuintas\obj\x86\Debug\GeorgeQuintas.pdb
